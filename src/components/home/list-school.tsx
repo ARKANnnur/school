@@ -84,7 +84,7 @@ export default function ListSchool() {
   return (
     <div className="bg-pastel-lemon min-h-dvh max-w-dvw flex flex-col justify-between relative">
       <div className="">
-        <div className="text-center p-[2%] text-2xl sm:text-4xl lg:text-6xl uppercase tracking-tight leading-tight">
+        <div className="text-center p-[2%] text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-black text-black mb-4 sm:mb-6 uppercase tracking-tight leading-tightk">
           <h2>Find your school</h2>
         </div>
         <div className="p-6 flex justify-center items-center">
